@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RSA_Java_Implementation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/RSA_Java_Implementation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
